@@ -88,6 +88,8 @@ a:hover {
     margin-left: 40px;
 }
 
+/* some comments were added */
+
 @media (max-width: 959px) {
     .header {
         flex-direction: column;
